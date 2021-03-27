@@ -1,1 +1,1 @@
-console.log("Text 1");
+console.log("y como quiero hacerte renegar un poco mas, modifico los dos :p");
